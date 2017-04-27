@@ -1,0 +1,12 @@
+To compile the interface:
+
+addJob.c dipslayAll.c flushBuff.c getJob.c load.c main.c menu.c reminder.h
+removeJob.c safer_gets.c save.c searchJobs.c
+
+
+To compile the daemon:
+
+addJob.c deleteJob.c dmain.c executeJob.c freeList.c load.c reminder.h 
+save.c 
+
+
